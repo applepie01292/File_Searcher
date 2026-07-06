@@ -4,7 +4,7 @@ from pathlib import Path
 from PIL import Image, ImageTk
 from ffpyplayer.player import MediaPlayer  
 
-dir_path = Path("c:/Users/applepie/Documents/File_Searcher/General_jihad_stuff")
+dir_path = Path("c:/Users/PutYourUserHere/Downloads/File_Searcher/General_jihad_stuff")
 
 
 video_player_instance = None
