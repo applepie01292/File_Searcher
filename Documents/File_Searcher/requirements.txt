@@ -1,4 +1,0 @@
-tkinter
-pathlib
-Pillow
-ffpyplayer
